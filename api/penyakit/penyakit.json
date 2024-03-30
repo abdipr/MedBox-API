@@ -1,0 +1,379 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "nama": "Flu",
+      "gejala": [
+        "Demam",
+        "Batuk",
+        "Sakit kepala",
+        "Pilek"
+      ],
+      "penyebab": "Virus influenza",
+      "penyebaran": "Menular melalui udara atau kontak dengan penderita",
+      "pencegahan": [
+        "Vaksinasi",
+        "Mencuci tangan secara teratur"
+      ],
+      "diagnosis": "Tes cepat atau tes PCR",
+      "pengobatan": [
+        "Obat pereda gejala",
+        "Istirahat yang cukup"
+      ],
+      "prognosis": "Biasanya sembuh dalam beberapa minggu",
+      "faktor_risiko": [
+        "Kontak dengan penderita",
+        "Kondisi imunodefisiensi"
+      ],
+      "komplikasi": [
+        "Pneumonia",
+        "Infeksi telinga"
+      ],
+      "statistik": {
+        "prevalensi": "Tinggi di musim flu",
+        "epidemiologi": "Umumnya menyerang seluruh dunia setiap tahunnya"
+      }
+    },
+    {
+      "id": 2,
+      "nama": "Diabetes",
+      "gejala": [
+        "Polyuria",
+        "Polydipsia",
+        "Polyphagia",
+        "Penurunan berat badan"
+      ],
+      "penyebab": "Kurangnya insulin atau resistensi insulin",
+      "penyebaran": "Tidak menular, tapi bisa terjadi pada berbagai kelompok usia",
+      "pencegahan": [
+        "Pola makan sehat",
+        "Olahraga teratur"
+      ],
+      "diagnosis": "Tes darah untuk kadar glukosa",
+      "pengobatan": [
+        "Insulin",
+        "Obat antidiabetik oral"
+      ],
+      "prognosis": "Tidak bisa sembuh, tapi bisa dikendalikan dengan baik",
+      "faktor_risiko": [
+        "Obesitas",
+        "Genetika"
+      ],
+      "komplikasi": [
+        "Kerusakan ginjal",
+        "Kerusakan saraf"
+      ],
+      "statistik": {
+        "prevalensi": "Meningkat secara global",
+        "epidemiologi": "Menyerang semua kelompok usia, tetapi lebih umum pada usia lanjut"
+      }
+    },
+    {
+      "id": 3,
+      "nama": "Hipertensi",
+      "gejala": [
+        "Sakit kepala",
+        "Pusing",
+        "Mual",
+        "Penglihatan kabur"
+      ],
+      "penyebab": "Tekanan darah tinggi",
+      "penyebaran": "Tidak menular, tetapi dapat terjadi pada siapa saja",
+      "pencegahan": [
+        "Diet rendah garam",
+        "Olahraga teratur"
+      ],
+      "diagnosis": "Pengukuran tekanan darah",
+      "pengobatan": [
+        "Obat antihipertensi",
+        "Perubahan gaya hidup"
+      ],
+      "prognosis": "Bisa dikendalikan dengan baik dengan pengobatan dan perubahan gaya hidup",
+      "faktor_risiko": [
+        "Obesitas",
+        "Kurang aktivitas fisik"
+      ],
+      "komplikasi": [
+        "Stroke",
+        "Serangan jantung"
+      ],
+      "statistik": {
+        "prevalensi": "Tinggi di seluruh dunia",
+        "epidemiologi": "Bisa terjadi pada semua kelompok usia, tetapi lebih umum pada orang tua"
+      }
+    },
+    {
+      "id": 4,
+      "nama": "Asma",
+      "gejala": [
+        "Sesak napas",
+        "Batuk",
+        "Mengi",
+        "Dada terasa tertekan"
+      ],
+      "penyebab": "Inflamasi dan penyempitan saluran napas",
+      "penyebaran": "Tidak menular, tetapi bisa terjadi pada siapa saja",
+      "pencegahan": [
+        "Menghindari pencetus",
+        "Penggunaan obat pengontrol"
+      ],
+      "diagnosis": "Spirometri untuk mengukur fungsi paru-paru",
+      "pengobatan": [
+        "Obat-obatan bronkodilator",
+        "Inhaler steroid"
+      ],
+      "prognosis": "Bisa dikendalikan dengan obat dan perubahan gaya hidup",
+      "faktor_risiko": [
+        "Riwayat keluarga",
+        "Paparan alergen"
+      ],
+      "komplikasi": [
+        "Serangan asma berat",
+        "Gagal napas"
+      ],
+      "statistik": {
+        "prevalensi": "Meningkat secara global, terutama pada anak-anak",
+        "epidemiologi": "Banyak dipicu oleh alergen atau infeksi virus"
+      }
+    },
+    {
+      "id": 5,
+      "nama": "Kanker",
+      "gejala": [
+        "Benjolan",
+        "Perubahan kulit",
+        "Sakit yang tidak hilang",
+        "Penurunan berat badan yang tidak diinginkan"
+      ],
+      "penyebab": "Mutasi genetik atau paparan karsinogen",
+      "penyebaran": "Tidak menular, tetapi bisa terjadi pada siapa saja",
+      "pencegahan": [
+        "Menghindari faktor risiko",
+        "Pemeriksaan rutin"
+      ],
+      "diagnosis": "Tes imunologi atau biopsi",
+      "pengobatan": [
+        "Pembedahan",
+        "Kemoterapi",
+        "Radioterapi"
+      ],
+      "prognosis": "Bervariasi tergantung jenis dan stadiumnya",
+      "faktor_risiko": [
+        "Merokok",
+        "Paparan sinar UV"
+      ],
+      "komplikasi": [
+        "Metastasis",
+        "Kehilangan fungsi organ"
+      ],
+      "statistik": {
+        "prevalensi": "Meningkat secara global",
+        "epidemiologi": "Berbagai faktor risiko yang berkontribusi, termasuk gaya hidup dan lingkungan"
+      }
+    },
+    {
+      "id": 6,
+      "nama": "Infeksi Saluran Kemih (ISK)",
+      "gejala": [
+        "Nyeri saat buang air kecil",
+        "Frekuensi buang air kecil meningkat",
+        "Urine berbau",
+        "Urine berwarna keruh"
+      ],
+      "penyebab": "Bakteri masuk ke saluran kemih",
+      "penyebaran": "Tidak menular, tetapi bisa terjadi pada siapa saja",
+      "pencegahan": [
+        "Minum air yang cukup",
+        "Buang air kecil setelah hubungan seksual"
+      ],
+      "diagnosis": "Tes urin untuk deteksi bakteri",
+      "pengobatan": [
+        "Antibiotik",
+        "Minum banyak air"
+      ],
+      "prognosis": "Bisa sembuh sepenuhnya dengan pengobatan yang tepat",
+      "faktor_risiko": [
+        "Aktivitas seksual yang tinggi",
+        "Menopause"
+      ],
+      "komplikasi": [
+        "Infeksi ginjal",
+        "Sepsis"
+      ],
+      "statistik": {
+        "prevalensi": "Umum terjadi pada wanita",
+        "epidemiologi": "Lebih umum pada wanita dibandingkan pria"
+      }
+    },
+    {
+      "id": 7,
+      "nama": "Stroke",
+      "gejala": [
+        "Kelumpuhan satu sisi tubuh",
+        "Kesulitan bicara",
+        "Kehilangan kesadaran",
+        "Kebingungan"
+      ],
+      "penyebab": "Terjadi ketika aliran darah ke otak terganggu",
+      "penyebaran": "Tidak menular, tetapi bisa terjadi pada siapa saja",
+      "pencegahan": [
+        "Kontrol tekanan darah",
+        "Berhenti merokok"
+      ],
+      "diagnosis": "CT scan atau MRI",
+      "pengobatan": [
+        "Terapi trombolitik",
+        "Terapi fisik"
+      ],
+      "prognosis": "Bervariasi tergantung dari tingkat keparahan dan penanganan awal",
+      "faktor_risiko": [
+        "Hipertensi",
+        "Merokok"
+      ],
+      "komplikasi": [
+        "Kerusakan otak permanen",
+        "Kematian"
+      ],
+      "statistik": {
+        "prevalensi": "Meningkat pada populasi yang menua",
+        "epidemiologi": "Lebih umum pada orang tua dan mereka dengan faktor risiko tertentu"
+      }
+    },
+    {
+      "id": 8,
+      "nama": "Demensia",
+      "gejala": [
+        "Kehilangan memori",
+        "Kesulitan berpikir",
+        "Perubahan mood",
+        "Kehilangan kemampuan berbahasa"
+      ],
+      "penyebab": "Kerusakan otak yang progresif",
+      "penyebaran": "Tidak menular, lebih umum pada orang tua",
+      "pencegahan": [
+        "Pertahankan otak aktif",
+        "Kontrol faktor risiko kardiovaskular"
+      ],
+      "diagnosis": "Evaluasi klinis dan tes kognitif",
+      "pengobatan": [
+        "Terapi kognitif",
+        "Obat penghambat kolinesterase"
+      ],
+      "prognosis": "Tidak dapat disembuhkan, namun penanganan dapat meningkatkan kualitas hidup",
+      "faktor_risiko": [
+        "Usia",
+        "Riwayat keluarga"
+      ],
+      "komplikasi": [
+        "Hilangnya kemampuan mandiri",
+        "Komplikasi medis lainnya"
+      ],
+      "statistik": {
+        "prevalensi": "Meningkat seiring penuaan populasi",
+        "epidemiologi": "Lebih umum pada orang tua dan dapat berkembang secara bertahap"
+      }
+    },
+    {
+      "id": 9,
+      "nama": "HIV/AIDS",
+      "gejala": [
+        "Demam",
+        "Pembengkakan kelenjar getah bening",
+        "Sakit tenggorokan",
+        "Kehilangan berat badan yang tidak diinginkan"
+      ],
+      "penyebab": "Virus Human Immunodeficiency Virus (HIV)",
+      "penyebaran": "Menular melalui kontak darah, seksual, atau dari ibu ke bayi selama kehamilan, persalinan, atau menyusui",
+      "pencegahan": [
+        "Penggunaan kondom",
+        "Tes HIV secara teratur"
+      ],
+      "diagnosis": "Tes HIV antibodi atau tes RNA",
+      "pengobatan": [
+        "Terapi Antiretroviral (ARV)",
+        "Terapi profilaksis"
+      ],
+      "prognosis": "Tidak dapat disembuhkan, namun dapat dikendalikan dengan pengobatan yang tepat",
+      "faktor_risiko": [
+        "Hubungan seksual tanpa kondom",
+        "Penggunaan jarum suntik bersama"
+      ],
+      "komplikasi": [
+        "Infeksi oportunistik",
+        "Kanker terkait AIDS"
+      ],
+      "statistik": {
+        "prevalensi": "Berbeda-beda berdasarkan wilayah",
+        "epidemiologi": "Pengidap HIV/AIDS terdapat di seluruh dunia, dengan tingkat penyebaran yang bervariasi"
+      }
+    },
+    {
+      "id": 10,
+      "nama": "Gagal Jantung",
+      "gejala": [
+        "Sesak napas",
+        "Kelelahan",
+        "Pembengkakan pergelangan kaki",
+        "Nyeri dada"
+      ],
+      "penyebab": "Kerusakan atau kelemahan otot jantung",
+      "penyebaran": "Tidak menular, tetapi bisa terjadi pada siapa saja",
+      "pencegahan": [
+        "Diet rendah garam",
+        "Berhenti merokok"
+      ],
+      "diagnosis": "Pemeriksaan fisik dan tes diagnostik",
+      "pengobatan": [
+        "Obat-obatan diuretik",
+        "Terapi kateterisasi jantung"
+      ],
+      "prognosis": "Tergantung pada tingkat keparahan dan penanganan awal",
+      "faktor_risiko": [
+        "Hipertensi",
+        "Riwayat penyakit jantung"
+      ],
+      "komplikasi": [
+        "Edema paru",
+        "Gagal jantung kongestif"
+      ],
+      "statistik": {
+        "prevalensi": "Meningkat dengan bertambahnya usia",
+        "epidemiologi": "Lebih umum pada orang tua dan mereka dengan penyakit jantung yang mendasarinya"
+      }
+    },
+    {
+      "id": 11,
+      "nama": "Obesitas",
+      "gejala": [
+        "Peningkatan berat badan",
+        "Lemak tubuh berlebihan",
+        "Sulit bernapas",
+        "Kelelahan"
+      ],
+      "penyebab": "Ketidakseimbangan antara asupan kalori dan pengeluaran energi",
+      "penyebaran": "Tidak menular, tetapi bisa terjadi pada siapa saja",
+      "pencegahan": [
+        "Pola makan sehat",
+        "Olahraga teratur"
+      ],
+      "diagnosis": "Pengukuran indeks massa tubuh (BMI)",
+      "pengobatan": [
+        "Perubahan gaya hidup",
+        "Operasi pengurangan berat badan"
+      ],
+      "prognosis": "Dapat dikontrol dengan manajemen berat badan yang tepat",
+      "faktor_risiko": [
+        "Pola makan tidak sehat",
+        "Kurangnya aktivitas fisik"
+      ],
+      "komplikasi": [
+        "Diabetes tipe 2",
+        "Penyakit jantung"
+      ],
+      "statistik": {
+        "prevalensi": "Meningkat secara global",
+        "epidemiologi": "Berpengaruh oleh gaya hidup modern dan kebiasaan makan yang tidak sehat"
+      }
+    }
+  ]
+}
