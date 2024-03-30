@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: application/json');
-$data = file_get_contents('./penyakit.json');
+$data = file_get_contents('/penyakit.json');
 
 $json = json_decode($data);
 $author = "abdipr";
