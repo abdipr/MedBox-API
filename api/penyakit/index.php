@@ -46,7 +46,7 @@ if (!isset($_GET['q']) || $_GET["q"] == "") {
 
   if (!empty($matchedItems)) {
     $result["result"] = $matchedItems;
-    echo json_encode($result, JSON_PRETTY_PRINT);
+    echo str_replace("\\", "", json_encode($result, JSON_PRETTY_PRINT));
   } else {
     echo json_encode($error, JSON_PRETTY_PRINT);
   }
