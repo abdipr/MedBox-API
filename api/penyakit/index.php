@@ -30,14 +30,16 @@ if (!isset($_GET['q']) || $_GET["q"] == "") {
         "nama" => $item->nama,
         "gejala" => $item->gejala,
         "penyebab" => $item->penyebab,
-        "penyebaran" => $item->penyebaran,
+        "penularan" => $item->penularan,
         "pencegahan" => $item->pencegahan,
         "diagnosis" => $item->diagnosis,
         "pengobatan" => $item->pengobatan,
         "prognosis" => $item->prognosis,
         "faktor_risiko" => $item->faktor_risiko,
         "komplikasi" => $item->komplikasi,
-        "statistik" => $item->statistik
+        "epidemiologi" => $item->epidemiologi,
+        "prevalensi" => $item->prevalensi,
+        "sumber" => $item->sumber
       );
     }
   }
