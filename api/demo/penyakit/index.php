@@ -56,7 +56,7 @@
     <h1>Penyakit</h1>
     <p>Cari informasi penyakit.</p>
     <div class="section">
-    <form method=get action=index.php>
+    <form method=get action=/penyakit/index.php>
     <input type="text" id="penyakit" name="q" placeholder="Nama Penyakit" maxlength="50" oninput="this.value=this.value.slice(0,this.maxLength)" class="input">
     <button type="submit" class="cari">Cari</button>
     </form>
