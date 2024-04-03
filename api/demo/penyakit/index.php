@@ -64,7 +64,7 @@
   </div>
     <div class="section">
 <?php
-$data = file_get_contents("api/penyakit/penyakit.json");
+$data = file_get_contents("../penyakit/penyakit.json");
 
 $json = json_decode($data);
 $author = "abdipr";
@@ -97,14 +97,14 @@ if (!isset($_GET["q"]) || $_GET["q"] == "") {
     }
 }
 if ($total == 0) {
-    if (!isset($_GET["q"]) || $_GET["q"] != "") {
+    if (isset($_GET["q"]) || $_GET["q"] != "") {
         echo "Tidak ada penyakit bernama " .
             (isset($_GET["q"]) ? $_GET["q"] : "Unknown") .
             "";
     }
 }
 if ($total != 0) {
-    if (!isset($_GET["q"]) || $_GET["q"] != "") {
+    if (isset($_GET["q"]) || $_GET["q"] != "") {
         echo "Total hasil: " . $total;
     }
 }
