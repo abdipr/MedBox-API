@@ -97,14 +97,14 @@ if (!isset($_GET["q"]) || $_GET["q"] == "") {
     }
 }
 if ($total == 0) {
-    if ($_GET["q"] != "") {
+    if (!isset($_GET["q"]) || $_GET["q"] != "") {
         echo "Tidak ada penyakit bernama " .
             (isset($_GET["q"]) ? $_GET["q"] : "Unknown") .
             "";
     }
 }
 if ($total != 0) {
-    if ($_GET["q"] != "") {
+    if (!isset($_GET["q"]) || $_GET["q"] != "") {
         echo "Total hasil: " . $total;
     }
 }
