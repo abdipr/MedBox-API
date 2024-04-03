@@ -64,7 +64,7 @@
   </div>
     <div class="section">
 <?php
-$data = file_get_contents(".../api/penyakit/penyakit.json");
+$data = file_get_contents("api/penyakit/penyakit.json");
 
 $json = json_decode($data);
 $author = "abdipr";
