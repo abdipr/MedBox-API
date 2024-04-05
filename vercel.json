@@ -1,9 +1,15 @@
 {
   "functions": {
-    "api/**/*.php": {
+    "api/penyakit/*.php": {
       "runtime": "vercel-php@0.7.0"
     },
-    "api/demo/**/*.php": {
+    "api/demo/penyakit/*.php": {
+      "runtime": "vercel-php@0.7.0"
+    },
+    "api/obat/*.php": {
+      "runtime": "vercel-php@0.7.0"
+    },
+    "api/demo/obat/*.php": {
       "runtime": "vercel-php@0.7.0"
     }
   }
