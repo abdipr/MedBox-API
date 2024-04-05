@@ -24,7 +24,7 @@ if (!isset($_GET['q']) || $_GET["q"] == "") {
 } else {
   $matchedItems = array();
   foreach ($json->data as $item) {
-    if (isset($_GET['q']) && strpos(strtolower($item->nama), strtolower($_GET["q"])) !== false) {
+    if (isset($_GET['q']) && strpos(strtolower($item->nama_generik), strtolower($_GET["q"])) !== false) {
       $matchedItems[] = array(
     "id" => $item->id,
     "nama_generik" => $item->nama_generik,
