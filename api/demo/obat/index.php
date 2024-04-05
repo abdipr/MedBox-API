@@ -1,3 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Penyakit</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+      .section {
+        margin-bottom: 20px;
+      }
+      .divTable
+      {
+      width:100%;
+      display:block;
+      height:100%!important;
+      padding:0px;
+      background-color:transparent;
+      margin:0px;
+      }
+
+      .divRow
+      {
+      width:100%;
+      display:table;
+      position:relative;
+      }
+
+      .divCell
+      {
+      width:68%;
+      display:block;
+      position:relative;
+      float:left;
+      text-align:left;
+      vertical-align:middle;
+      letter-spacing:0px;
+      word-spacing:0px;
+      }
+
+      .divCelln
+      {
+      width:32%;
+      display:block;
+      position:relative;
+      float:left;
+      text-align:left;
+      vertical-align:middle;
+      letter-spacing:0px;
+      word-spacing:0px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Obat</h1>
+    <p>Cari informasi obat.</p>
+    <div class="section">
+    <form method=get action=/api/demo/obat/index.php>
+    <input type="text" id="obat" name="q" placeholder="Nama Obat" maxlength="50" oninput="this.value=this.value.slice(0,this.maxLength)" class="input">
+    <button type="submit" class="cari">Cari</button>
+    </form>
+      <br>
+  </div>
+    <div class="section">
 <?php
 $data = file_get_contents(__DIR__ . '/obat.json');
 
