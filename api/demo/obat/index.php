@@ -11,7 +11,7 @@ if (!isset($_GET["q"]) || $_GET["q"] == "") {
     foreach ($json->data as $item) {
         if (
             isset($_GET["q"]) &&
-            strpos(strtolower($item->nama), strtolower($_GET["q"])) !== false
+            strpos(strtolower($item->nama_generik), strtolower($_GET["q"])) !== false
         ) {
             $total = $total + 1;
             echo "<h3>&nbsp;&nbsp;$total. $item->nama_generik</h3>";
