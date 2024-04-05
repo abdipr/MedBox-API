@@ -1,4 +1,5 @@
-[
+{
+  "data":[
   {
     "id": 1,
     "nama_generik": "Abacavir",
@@ -1203,3 +1204,4 @@
     "sumber": "https://www.alodokter.com/ambroxol"
   }
 ]
+}
