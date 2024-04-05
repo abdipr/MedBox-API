@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Penyakit</title>
+    <title>Obat</title>
     <style>
       body {
         font-family: Arial, sans-serif;
