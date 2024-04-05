@@ -81,29 +81,29 @@ if (!isset($_GET["q"]) || $_GET["q"] == "") {
             $total = $total + 1;
             echo "<h3>&nbsp;&nbsp;$total. $item->nama</h3>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Gejala</div><div class='divCell'>$item->gejala</div></div>";
-            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
+            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Penyebab</div><div class='divCell'>$item->penyebab</div></div>";
-            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
+            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Penularan</div><div class='divCell'>$item->penularan</div></div>";
-            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
+            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Pencegahan</div><div class='divCell'>$item->pencegahan</div></div>";
-            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
+            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Diagnosis</div><div class='divCell'>$item->diagnosis</div></div>";
-            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
+            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Pengobatan</div><div class='divCell'>$item->pengobatan</div></div>";
-            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
+            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Prognosis</div><div class='divCell'>$item->prognosis</div></div>";
-            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
+            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Faktor Risiko</div><div class='divCell'>$item->faktor_risiko</div></div>";
-            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
+            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Komplikasi</div><div class='divCell'>$item->komplikasi</div></div>";
-            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
+            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Epidemiologi</div><div class='divCell'>$item->epidemiologi</div></div>";
-            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
+            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Prevalensi</div><div class='divCell'>$item->prevalensi</div></div>";
-            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
+            echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Sumber</div><div class='divCell'><a href='$item->sumber' target='blank'>Alodokter</a></div></div>";
-            echo "<hr size='1px' color='#dddddd' style='border-radius: 5px;'><br>";
+            echo "<hr size='1px' color='#dddddd' style='border-radius: 5px;'><br><br>";
         }
     }
 }
