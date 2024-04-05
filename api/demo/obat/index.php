@@ -112,7 +112,7 @@ if (!isset($_GET["q"]) || $_GET["q"] == "") {
             echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Menyusui</div><div class='divCell'>$item->menyusui</div></div>";
             echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
-            echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Peringatan Khusus</div><div class='divCell'$item->peringatan_khusus</div></div>";
+            echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Peringatan Khusus</div><div class='divCell'>$item->peringatan_khusus</div></div>";
             echo "<hr size='1px' color='#f0f0f0' style='border-radius: 2.5px;'><br>";
             echo "<div id='divRow1' class='divRow'><div class='divCelln' style='font-weight: bold;'>Sumber</div><div class='divCell'><a href='$item->sumber' target='blank'>Alodokter</a></div></div>";
             echo "<hr size='1px' color='#dddddd' style='border-radius: 5px;'><br>";
