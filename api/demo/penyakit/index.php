@@ -98,7 +98,7 @@ if (!isset($_GET["q"]) || $_GET["q"] == "") {
 }
 if ($total == 0) {
     if (isset($_GET["q"]) && $_GET["q"] != "") {
-        echo "Tidak ada penyakit bernama " .
+        echo "<br>Tidak ada penyakit bernama " .
             (isset($_GET["q"]) ? $_GET["q"] : "Unknown") .
             "";
     }
