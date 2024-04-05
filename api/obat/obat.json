@@ -1,6 +1,6 @@
 [
   {
-    "no": 1,
+    "id": 1,
     "nama_generik": "Abacavir",
     "nama_merk": "Ziagen, Abamune, Abacavir Indofarma",
     "pengertian": "Abacavir adalah obat antivirus yang digunakan bersama dengan obat-obatan lain untuk mengobati infeksi HIV (Human Immunodeficiency Virus).",
@@ -25,7 +25,7 @@
     "sumber": "https://www.alodokter.com/abacavir"
   },
   {
-    "no": 2,
+    "id": 2,
     "nama_generik": "Abemaciclib",
     "nama_merk": "Verzenio",
     "pengertian": "Abemaciclib adalah obat kemoterapi yang digunakan untuk mengobati kanker payudara yang telah menyebar ke bagian lain dari tubuh.",
@@ -49,7 +49,7 @@
     "sumber": "https://www.alodokter.com/abemaciclib"
   },
   {
-    "no": 3,
+    "id": 3,
     "nama_generik": "Abrocitinib",
     "nama_merk": "Tremfya",
     "pengertian": "Abrocitinib adalah obat antiinflamasi yang digunakan untuk mengobati psoriasis plaque yang parah pada orang dewasa.",
@@ -73,7 +73,7 @@
     "sumber": "https://www.alodokter.com/abrocitinib"
   },
   {
-    "no": 4,
+    "id": 4,
     "nama_generik": "Acalabrutinib",
     "nama_merk": "Calquence",
     "pengertian": "Acalabrutinib adalah obat kemoterapi yang digunakan untuk mengobati limfoma sel mantel pada orang dewasa.",
@@ -97,7 +97,7 @@
     "sumber": "https://www.alodokter.com/acalabrutinib"
   },
   {
-    "no": 5,
+    "id": 5,
     "nama_generik": "Acarbose",
     "nama_merk": "Glucobay, Prandase",
     "pengertian": "Acarbose adalah obat antidiabetes yang digunakan untuk mengontrol kadar gula darah pada pasien diabetes tipe 2.",
@@ -121,7 +121,7 @@
     "sumber": "https://www.alodokter.com/acarbose"
   },
   {
-    "no": 6,
+    "id": 6,
     "nama_generik": "ACE Inhibitor",
     "nama_merk": "Captopril, Enalapril, Lisinopril, Ramipril",
     "pengertian": "ACE Inhibitor adalah kelompok obat yang digunakan untuk mengobati tekanan darah tinggi (hipertensi) dan gagal jantung.",
@@ -145,7 +145,7 @@
     "sumber": "https://www.alodokter.com/ace-inhibitor"
   },
   {
-    "no": 7,
+    "id": 7,
     "nama_generik": "Acebutolol",
     "nama_merk": "Sectral",
     "pengertian": "Acebutolol adalah obat golongan beta blocker yang digunakan untuk mengobati tekanan darah tinggi dan aritmia jantung.",
@@ -169,7 +169,7 @@
     "sumber": "https://www.alodokter.com/acebutolol"
   },
   {
-    "no": 8,
+    "id": 8,
     "nama_generik": "Acetazolamide",
     "nama_merk": "Diamox",
     "pengertian": "Acetazolamide adalah obat diuretik yang digunakan untuk mengobati tekanan intraokular tinggi pada glaukoma, serta mencegah dan mengobati soroche (penyakit ketinggian).",
@@ -193,7 +193,7 @@
     "sumber": "https://www.alodokter.com/acetazolamide"
   },
   {
-    "no": 9,
+    "id": 9,
     "nama_generik": "Acetylcysteine",
     "nama_merk": "Fluimucil, ACC",
     "pengertian": "Acetylcysteine adalah obat yang digunakan untuk mengencerkan dahak pada penyakit saluran pernapasan seperti bronkitis dan penyakit paru obstruktif kronis (PPOK).",
@@ -217,7 +217,7 @@
     "sumber": "https://www.alodokter.com/acetylcysteine"
   },
   {
-    "no": 10,
+    "id": 10,
     "nama_generik": "Acetylcysteine Inhalasi",
     "nama_merk": "Fluimucil",
     "pengertian": "Acetylcysteine Inhalasi adalah formulasi obat acetylcysteine yang digunakan untuk mengencerkan dahak dan mengobati penyakit saluran pernapasan seperti bronkitis dan penyakit paru obstruktif kronis (PPOK).",
@@ -241,7 +241,7 @@
     "sumber": "https://www.alodokter.com/acetylcysteine-inhalation"
   },
   {
-    "no": 11,
+    "id": 11,
     "nama_generik": "Acifar Cream",
     "nama_merk": "Acifar Cream",
     "pengertian": "Acifar Cream adalah krim yang mengandung acyclovir, sebuah obat antivirus yang digunakan untuk mengobati infeksi herpes simpleks pada kulit.",
@@ -265,7 +265,7 @@
     "sumber": "https://www.alodokter.com/acifar-cream"
   },
   {
-    "no": 12,
+    "id": 12,
     "nama_generik": "Acitretin",
     "nama_merk": "Neotigason, Soriatane",
     "pengertian": "Acitretin adalah obat retinoid yang digunakan untuk mengobati psoriasis, sebuah penyakit kulit yang ditandai dengan munculnya plak merah dan bersisik pada kulit.",
@@ -289,7 +289,7 @@
     "sumber": "https://www.alodokter.com/acitretin"
   },
   {
-    "no": 13,
+    "id": 13,
     "nama_generik": "Aclidinium",
     "nama_merk": "Eklira Genuair",
     "pengertian": "Aclidinium adalah obat bronkodilator yang digunakan untuk mengobati penyakit obstruktif saluran napas kronis (KOPD) seperti bronkitis dan emfisema.",
@@ -312,7 +312,7 @@
     "sumber": "https://www.alodokter.com/aclidinium"
   },
   {
-    "no": 14,
+    "id": 14,
     "nama_generik": "Actemra",
     "nama_merk": "Actemra",
     "pengertian": "Actemra adalah obat golongan biologis yang digunakan untuk mengobati berbagai kondisi inflamasi seperti rheumatoid arthritis, artritis rematoid juvenil, dan kondisi inflamasi lainnya.",
@@ -336,7 +336,7 @@
     "sumber": "https://www.alodokter.com/actemra"
   },
   {
-    "no": 15,
+    "id": 15,
     "nama_generik": "Actifed",
     "nama_merk": "Actifed",
     "pengertian": "Actifed adalah obat kombinasi yang mengandung pseudoephedrine dan triprolidine, digunakan untuk meredakan gejala pilek dan alergi seperti hidung tersumbat, bersin-bersin, dan mata berair.",
@@ -360,7 +360,7 @@
     "sumber": "https://www.alodokter.com/actifed"
   },
   {
-    "no": 16,
+    "id": 16,
     "nama_generik": "Actos",
     "nama_merk": "Actos",
     "pengertian": "Actos adalah obat yang mengandung pioglitazone, digunakan untuk mengobati diabetes tipe 2 dengan meningkatkan sensitivitas tubuh terhadap insulin.",
@@ -384,7 +384,7 @@
     "sumber": "https://www.alodokter.com/actos"
   },
   {
-    "no": 17,
+    "id": 17,
     "nama_generik": "Acyclovir Tablet",
     "nama_merk": "Acyclovir",
     "pengertian": "Acyclovir Tablet adalah obat antivirus yang digunakan untuk mengobati infeksi herpes simpleks, herpes zoster, dan cacar air.",
@@ -408,7 +408,7 @@
     "sumber": "https://www.alodokter.com/acyclovir"
   },
   {
-    "no": 18,
+    "id": 18,
     "nama_generik": "Acyclovir Topikal",
     "nama_merk": "Acyclovir Cream",
     "pengertian": "Acyclovir Topikal adalah krim yang mengandung acyclovir, digunakan untuk mengobati infeksi herpes simpleks pada kulit.",
@@ -432,7 +432,7 @@
     "sumber": "https://www.alodokter.com/acyclovir-cream"
   },
   {
-    "no": 19,
+    "id": 19,
     "nama_generik": "Adalimumab",
     "nama_merk": "Humira",
     "pengertian": "Adalimumab adalah obat biologis yang digunakan untuk mengobati berbagai kondisi autoimun seperti rheumatoid arthritis, psoriasis, dan penyakit Crohn.",
@@ -456,7 +456,7 @@
     "sumber": "https://www.alodokter.com/adalimumab"
   },
   {
-    "no": 20,
+    "id": 20,
     "nama_generik": "Adapalene",
     "nama_merk": "Adapalene Gel",
     "pengertian": "Adapalene adalah obat topikal yang digunakan untuk mengobati jerawat.",
@@ -480,7 +480,7 @@
     "sumber": "https://www.alodokter.com/adapalene-gel"
   },
   {
-    "no": 21,
+    "id": 21,
     "nama_generik": "Adefovir",
     "nama_merk": "Hepsera",
     "pengertian": "Adefovir adalah obat antivirus yang digunakan untuk mengobati infeksi hepatitis B kronis.",
@@ -504,7 +504,7 @@
     "sumber": "https://www.alodokter.com/adefovir"
   },
   {
-    "no": 22,
+    "id": 22,
     "nama_generik": "Adenosine",
     "nama_merk": "Adenocard",
     "pengertian": "Adenosine adalah obat antiaritmia yang digunakan untuk mengobati aritmia jantung paroksismal supraventrikular.",
@@ -528,7 +528,7 @@
     "sumber": "https://www.alodokter.com/adenosine"
   },
   {
-    "no": 23,
+    "id": 23,
     "nama_generik": "Afatinib",
     "nama_merk": "Giotrif",
     "pengertian": "Afatinib adalah obat kemoterapi yang digunakan untuk mengobati kanker paru-paru non-small cell yang menyebar (metastasis) dan memiliki mutasi pada gen EGFR.",
@@ -552,7 +552,7 @@
     "sumber": "https://www.alodokter.com/afatinib"
   },
   {
-    "no": 24,
+    "id": 24,
     "nama_generik": "Afinitor",
     "nama_merk": "Afinitor",
     "pengertian": "Afinitor adalah obat yang digunakan untuk mengobati beberapa jenis kanker, termasuk kanker payudara, kanker pankreas, dan kanker ginjal.",
@@ -576,7 +576,7 @@
     "sumber": "https://www.alodokter.com/afinitor"
   },
   {
-    "no": 25,
+    "id": 25,
     "nama_generik": "Agonis Beta",
     "nama_merk": "Atrovent",
     "pengertian": "Agonis Beta adalah obat bronkodilator yang digunakan untuk mengobati penyakit paru obstruktif kronis (PPOK) dan asma.",
@@ -600,7 +600,7 @@
     "sumber": "https://www.alodokter.com/agonis-beta"
   },
   {
-    "no": 26,
+    "id": 26,
     "nama_generik": "Ailin Cool",
     "nama_merk": "Ailin Cool",
     "pengertian": "Ailin Cool adalah obat yang mengandung kombinasi antara mentol, kamper, dan minyak kayu putih yang digunakan untuk meredakan nyeri otot dan pegal-pegal.",
@@ -624,7 +624,7 @@
     "sumber": "https://www.alodokter.com/ailin-cool"
   },
   {
-    "no": 27,
+    "id": 27,
     "nama_generik": "Aito",
     "nama_merk": "Aito",
     "pengertian": "Aito adalah obat yang mengandung kombinasi antara acetaminophen, caffeine, dan propyphenazone yang digunakan untuk meredakan nyeri, demam, dan sakit kepala.",
@@ -648,7 +648,7 @@
     "sumber": "https://www.alodokter.com/aito"
   },
   {
-    "no": 28,
+    "id": 28,
     "nama_generik": "Albendazole",
     "nama_merk": "Albendazole",
     "pengertian": "Albendazole adalah obat antiparasit yang digunakan untuk mengobati infeksi cacing dewasa di dalam tubuh manusia.",
@@ -672,7 +672,7 @@
     "sumber": "https://www.alodokter.com/albendazole"
   },
   {
-    "no": 29,
+    "id": 29,
     "nama_generik": "Albumin",
     "nama_merk": "Albumin",
     "pengertian": "Albumin adalah obat yang digunakan untuk menggantikan atau meningkatkan kadar albumin dalam darah pada pasien dengan kondisi yang menyebabkan kekurangan albumin.",
@@ -696,7 +696,7 @@
     "sumber": "https://www.alodokter.com/albumin"
   },
   {
-    "no": 30,
+    "id": 30,
     "nama_generik": "Alclometasone",
     "nama_merk": "Aclovate, Ademethasone, Alcortin A, Cobolin-M, Listerol, Pantoderm, Tairine, Umacort",
     "pengertian": "Alclometasone adalah kortikosteroid topikal yang digunakan untuk mengurangi peradangan dan gatal pada kulit.",
@@ -720,7 +720,7 @@
     "sumber": "https://www.alodokter.com/alclometasone"
   },
   {
-    "no": 31,
+    "id": 31,
     "nama_generik": "Alectinib",
     "nama_merk": "Alecensa",
     "pengertian": "Alectinib adalah obat yang digunakan untuk mengobati kanker paru-paru non-small cell yang memiliki mutasi pada gen ALK.",
@@ -744,7 +744,7 @@
     "sumber": "https://www.alodokter.com/alectinib"
   },
   {
-    "no": 32,
+    "id": 32,
     "nama_generik": "Alegysal",
     "nama_merk": "Alegysal",
     "pengertian": "Alegysal adalah obat yang mengandung kombinasi antara cetirizine dan pseudoephedrine yang digunakan untuk meredakan gejala alergi dan pilek.",
@@ -768,7 +768,7 @@
     "sumber": "https://www.alodokter.com/alegysal"
   },
   {
-    "no": 33,
+    "id": 33,
     "nama_generik": "Alendronate",
     "nama_merk": "Fosamax",
     "pengertian": "Alendronate adalah obat yang digunakan untuk mengobati osteoporosis pada wanita pasca menopause dan untuk mencegah osteoporosis pada pria dan wanita yang menggunakan kortikosteroid jangka panjang.",
@@ -793,7 +793,7 @@
     "sumber": "https://www.alodokter.com/alendronate"
   },
   {
-    "no": 34,
+    "id": 34,
     "nama_generik": "Alfentanil",
     "nama_merk": "Alfenta, Rapifen",
     "pengertian": "Alfentanil adalah obat yang digunakan sebagai anestesi umum selama operasi atau prosedur medis lainnya.",
@@ -817,7 +817,7 @@
     "sumber": "https://www.alodokter.com/alfentanil"
   },
   {
-    "no": 35,
+    "id": 35,
     "nama_generik": "Alfuzosin",
     "nama_merk": "Alfuzosin",
     "pengertian": "Alfuzosin adalah obat yang digunakan untuk mengobati gejala pembesaran prostat (benign prostatic hyperplasia atau BPH) pada pria.",
@@ -841,7 +841,7 @@
     "sumber": "https://www.alodokter.com/alfuzosin"
   },
   {
-    "no": 36,
+    "id": 36,
     "nama_generik": "Aliskiren",
     "nama_merk": "Tekturna",
     "pengertian": "Aliskiren adalah obat yang digunakan untuk mengobati hipertensi (tekanan darah tinggi).",
@@ -865,7 +865,7 @@
     "sumber": "https://www.alodokter.com/aliskiren"
   },
   {
-    "no": 37,
+    "id": 37,
     "nama_generik": "Alitretinoin",
     "nama_merk": "Panretin",
     "pengertian": "Alitretinoin adalah obat yang digunakan untuk mengobati lesi kanker kulit basal sel skuamosa pada tangan dan kaki.",
@@ -889,7 +889,7 @@
     "sumber": "https://www.alodokter.com/alitretinoin"
   },
   {
-    "no": 38,
+    "id": 38,
     "nama_generik": "Alleron",
     "nama_merk": "Alleron",
     "pengertian": "Alleron adalah obat yang digunakan untuk meredakan gejala alergi, seperti rinitis alergi dan urtikaria.",
@@ -913,7 +913,7 @@
     "sumber": "https://www.alodokter.com/alleron"
   },
   {
-    "no": 39,
+    "id": 39,
     "nama_generik": "Allopurinol",
     "nama_merk": "Zyloric, Alopron",
     "pengertian": "Allopurinol adalah obat yang digunakan untuk mengurangi kadar asam urat dalam tubuh, mencegah serangan asam urat, dan mengobati beberapa jenis batu ginjal.",
@@ -937,7 +937,7 @@
     "sumber": "https://www.alodokter.com/allopurinol"
   },
   {
-    "no": 40,
+    "id": 40,
     "nama_generik": "Alluric",
     "nama_merk": "Alluric",
     "pengertian": "Alluric adalah obat yang digunakan untuk mengurangi kadar asam urat dalam tubuh dan mencegah serangan asam urat.",
@@ -961,7 +961,7 @@
     "sumber": "https://www.alodokter.com/alluric"
   },
   {
-    "no": 41,
+    "id": 41,
     "nama_generik": "Allylestrenol",
     "nama_merk": "Duphaston, Gestanin",
     "pengertian": "Allylestrenol adalah obat yang digunakan untuk mengatasi gangguan menstruasi, keguguran, dan risiko keguguran pada kehamilan.",
@@ -985,7 +985,7 @@
     "sumber": "https://www.alodokter.com/allylestrenol"
   },
   {
-    "no": 42,
+    "id": 42,
     "nama_generik": "Alogliptin",
     "nama_merk": "Nesina",
     "pengertian": "Alogliptin adalah obat yang digunakan untuk mengobati diabetes tipe 2.",
@@ -1009,7 +1009,7 @@
     "sumber": "https://www.alodokter.com/alogliptin"
   },
   {
-    "no": 43,
+    "id": 43,
     "nama_generik": "Alpara",
     "nama_merk": "Alpara",
     "pengertian": "Alpara adalah obat yang digunakan untuk mengobati gangguan tidur, seperti insomnia.",
@@ -1033,7 +1033,7 @@
     "sumber": "https://www.alodokter.com/alpara"
   },
   {
-    "no": 44,
+    "id": 44,
     "nama_generik": "Alpentin",
     "nama_merk": "Alpentin",
     "pengertian": "Alpentin adalah obat yang digunakan untuk mengobati nyeri neuropatik, epilepsi, dan gangguan kecemasan.",
@@ -1057,7 +1057,7 @@
     "sumber": "https://www.alodokter.com/alpentin"
   },
   {
-    "no": 45,
+    "id": 45,
     "nama_generik": "Alpha-Lipoic Acid",
     "nama_merk": "Alpha-Lipoic Acid",
     "pengertian": "Alpha-Lipoic Acid adalah suplemen diet yang mengandung senyawa alfa-lipoic acid, yang memiliki efek antioksidan dan dapat membantu mengontrol gula darah pada penderita diabetes.",
@@ -1081,7 +1081,7 @@
     "sumber": "https://www.alodokter.com/alpha-lipoic-acid"
   },
   {
-    "no": 46,
+    "id": 46,
     "nama_generik": "Alprazolam",
     "nama_merk": "Xanax, Frontal",
     "pengertian": "Alprazolam adalah obat yang digunakan untuk mengobati gangguan kecemasan, gangguan panik, dan kejang yang disebabkan oleh epilepsi.",
@@ -1105,7 +1105,7 @@
     "sumber": "https://www.alodokter.com/alprazolam"
   },
   {
-    "no": 47,
+    "id": 47,
     "nama_generik": "Altadis",
     "nama_merk": "Altadis",
     "pengertian": "Altadis adalah obat yang digunakan untuk meredakan nyeri dan peradangan ringan hingga sedang, seperti nyeri otot, sakit kepala, nyeri gigi, dan nyeri menstruasi.",
@@ -1129,7 +1129,7 @@
     "sumber": "https://www.alodokter.com/altadis"
   },
   {
-    "no": 48,
+    "id": 48,
     "nama_generik": "Alteplase",
     "nama_merk": "Activase",
     "pengertian": "Alteplase adalah obat yang digunakan untuk mengobati serangan jantung, serangan stroke, atau pembekuan darah yang terjadi di dalam pembuluh darah (trombosis).",
@@ -1153,7 +1153,7 @@
     "sumber": "https://www.alodokter.com/alteplase"
   },
   {
-    "no": 49,
+    "id": 49,
     "nama_generik": "Aluminium Hidroksida",
     "nama_merk": "Antasida",
     "pengertian": "Aluminium hidroksida adalah obat yang digunakan untuk meredakan gejala maag, seperti nyeri lambung, kembung, dan rasa tidak nyaman di perut.",
@@ -1177,7 +1177,7 @@
     "sumber": "https://www.alodokter.com/aluminium-hidroksida"
   },
   {
-    "no": 50,
+    "id": 50,
     "nama_generik": "Ambroxol",
     "nama_merk": "Ambroxol HCl, Ambroxol Indofarma, Bronkipect, Epexol, Erlapect, Etabroxol,  Imbroxol, Lapimuc, Limoxin, Mucera, Mucos, Mucobat, Nuvopec, Roverton, Selebrox, Zecaxol.",
     "pengertian": "Ambroxol adalah obat untuk mengencerkan dahak. Obat ini dapat digunakan pada berbagai kondisi dengan batuk berdahak, termasuk batuk pilek (common cold), bronkitis, emfisema, atau bronkiektasis.",
